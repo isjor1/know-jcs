@@ -1,0 +1,38 @@
+ 
+div {
+  width: 2000px;
+  height: 2000px;
+  background-color: rgb(15, 175, 228);
+  text-align: center;
+
+}
+
+
+ul, li {
+    list-style-position: inside;
+    list-style-type: square;
+    color: white;
+}
+
+h1, h2, h3, h4, h5 {
+  color: white;
+  font-size:40px;
+}
+
+p {
+  color: white;
+  font-size:18px;
+}
+
+a:visited {
+  color: lightgreen;
+}
+a:hover {
+  color: darkblue;
+}
+
+a:active {
+  color: red;
+}
+
+
